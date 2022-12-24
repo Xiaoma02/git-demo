@@ -8,3 +8,4 @@ The end test
 fix branch test
 hot-fix test
 测试拉文件
+测试公钥
