@@ -6,3 +6,4 @@ The end test
 666666
 88888888
 fix branch test
+hot-fix test
